@@ -13,7 +13,8 @@ Os dados horários são transformados em médias diárias, tratados e organizado
 - Python 3.9 ou superior;
 - Google Colab || Jupyter Notebook;
 
-<h1> 🐍 Bibliotecas instaladas: 🌍 </h1>
+<h1> 🐍 Bibliotecas instaladas 🌍 </h1>
+
 - openmeteo-requests
 - pandas
 - requests-cache
