@@ -11,13 +11,13 @@ Os dados horários são transformados em médias diárias, tratados e organizado
 <h1> ⚙  Pré-requisitos do sistema  </h1>
 
 - Python 3.9 ou superior;
-- Google Colab & Jupyter Notebook;
+- Google Colab || Jupyter Notebook;
 
 - Bibliotecas instaladas:
-openmeteo-requests
-pandas
-requests-cache
-retry-requests
+- openmeteo-requests
+- pandas
+- requests-cache
+- retry-requests
 
 
 <div> 
