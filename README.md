@@ -8,12 +8,12 @@ O desenvolvimento é realizado no Google Colab utilizando Python e Pandas. Entre
 Os dados horários são transformados em médias diárias, tratados e organizados para futura utilização em análises e modelos preditivos.
 
 
-<h1> ⚙  Pré-requisitos do sistema  </h1>
+<h1> ⚙  Pré-requisitos do Sistema  </h1>
 
 - Python 3.9 ou superior;
 - Google Colab || Jupyter Notebook;
 
-<h1> 🐍 Bibliotecas instaladas 🌍 </h1>
+<h1> 🐍 Bibliotecas Instaladas 🌍 </h1>
 
 - openmeteo-requests
 - pandas
