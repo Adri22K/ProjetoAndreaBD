@@ -1,46 +1,39 @@
 # 📍 API - QUALIDADE DO AR 
 Esse repositorio será sobre o desenvolvimento de um Data Frame para a aula de Ciência de Dados:
 
-# 💙 Tudo que importa, Bem Aqui!
+# 🌱💨 Sistema de Previsão da Qualidade do Ar com Pandas 
 
-Um WEB site para divulgação do app que será idealizado nos próximos semestres.
-Onde irá conter:
-
-- Notificações e alertas: Envio de lembretes sobre campanhas de vacinação, castração e doações.
-- Mapa interativo: Indicação de locais próximos que oferecem serviços gratuitos.
-- Chatbot informativo: Assistente virtual para responder dúvidas sobre campanhas.
-- Modo offline: Possibilidade de salvar informações para acesso sem internet.
-- Cadastro voluntário: Para permitir que moradores recebam informações personalizadas.
-- Sistema de parcerias: Espaço para ONGs, escolas e empresas divulgarem ações sociais.
-- Canal de denúncias: Para relatar problemas na infraestrutura ou necessidade de assistência social.
-
+Este projeto tem como objetivo coletar, tratar e analisar dados de qualidade do ar para auxiliar na previsão das concentrações de poluentes atmosféricos. Os dados são obtidos pelas APIs Open-Meteo Air Quality, Open-Meteo Historical e NASA POWER.
+O desenvolvimento é realizado no Google Colab utilizando Python e Pandas. Entre as variáveis analisadas estão PM2.5, PM10, dióxido de nitrogênio, dióxido de enxofre e ozônio, além de informações meteorológicas como temperatura, chuva e velocidade do vento.
+Os dados horários são transformados em médias diárias, tratados e organizados para futura utilização em análises e modelos preditivos.
 
 
 <h1> ⚙  Pré-requisitos do sistema  </h1>
 
-- Fácil navegação, pensado para pessoas com pouca experiência digital.
-- Baixo consumo de dados, permitindo acesso mesmo em redes móveis limitadas.
-- Integração com WhatsApp e SMS, para quem não pode baixar aplicativos pesados.
-- Acessibilidade, com suporte para leitores de tela e tradução para Libras.
+- Python 3.9 ou superior;
+- Google Colab & Jupyter Notebook;
+
+- Bibliotecas instaladas:
+openmeteo-requests
+pandas
+requests-cache
+retry-requests
 
 
 <div> 
   <h1>Tecnologias Utilizadas</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,fastapi,gcp,python,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,postgres,fastapi,gcp,python,regex,discord)](https://skillicons.dev)
  </div>
 <div>
 
 
 <h1> 👤 Integrantes </h1>
 <h3>Curso: Sistemas de Informação </h3>
-5° Semestre - Noturno
+8° Semestre - Noturno
 
 - Adrielle Stollemberger RGM: 33948844
 - Victor Almeida de Aquino RGM: 32901321
 - Nicolas Santos Silva RGM: 3287380
 - Samir Abdul Khalek RGM: 32657994
 - João Pedro Garcia Almeida RGM: 32847629
-- Eudenis de Souza Vieira RGM: 32751621
-- Diogo Gomes Barbosa RGM: 35866276
-- João Guilherme Cravo dos Santos RGM: 35880759
