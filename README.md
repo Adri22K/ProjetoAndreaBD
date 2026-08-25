@@ -27,7 +27,7 @@ Onde irá conter:
 <div> 
   <h1>Tecnologias Utilizadas</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=github,sql,pandas,colab,python,json,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,fastapi,gcp,python,discord)](https://skillicons.dev)
  </div>
 <div>
 
