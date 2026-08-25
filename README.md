@@ -1,5 +1,5 @@
 # 📍 API - QUALIDADE DO AR 
-Esse repositorio será sobre o desenvolvimento de um Data Frame para a aula de Ciência de Dados:
+Esse repositorio será sobre o desenvolvimento de um Data Frame para a aula de Ciência de Dados
 
 # 🌱💨 Sistema de Previsão da Qualidade do Ar com Pandas 
 
