@@ -1,0 +1,3 @@
+.cache.sqlite
+dados_saida/
+__pycache__/
